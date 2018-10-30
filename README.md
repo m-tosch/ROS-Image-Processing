@@ -1,5 +1,4 @@
 # ROS Image Processing
-An example architecture for image processing in ROS
 
 ## Abstract
 This repository demonstrates how to use ROS to process a basic image from a video stream. The image is published by one node, grayscaled by another and then subscribed to by a third one.
