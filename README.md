@@ -4,11 +4,11 @@
 This repository demonstrates how to use ROS to process a basic image from a video stream. The image is published by one node, grayscaled by another and then subscribed to by a third one.
 
 ## Prerequisites
-[ROS Kinetic] (http://wiki.ros.org/kinetic/Installation)
+[ROS Kinetic](http://wiki.ros.org/kinetic/Installation)
 
 ## Architecture
 <p align="center">
-	<img src="img/architecture.png" width="550">
+	<img src="img/architecture.png" width="750">
 </p>
 
 ## How do i run this code?
