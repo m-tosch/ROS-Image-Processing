@@ -19,6 +19,11 @@ Build package
 $ catkin_make
 ```
 
+Make sure you have a Master running
+```
+$ roscore
+```
+
 Run image publisher
 ```
 $ rosrun camera_test image_publisher 1
