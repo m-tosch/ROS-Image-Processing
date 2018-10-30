@@ -8,7 +8,7 @@ This repository demonstrates how to use ROS to process a basic image from a vide
 
 ## Architecture
 <p align="center">
-	<img src="img/architecture.png" width="750">
+	<img src="img/architecture.png" width="800">
 </p>
 
 ## How do i run this code?
